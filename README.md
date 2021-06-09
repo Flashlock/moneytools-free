@@ -1,2 +1,2 @@
 # moneytools-free
-A collection of tools and systems I use to make games.
+A collection of fundamental scripts I use to make games.
